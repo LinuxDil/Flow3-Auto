@@ -11,7 +11,7 @@ const chalk = require('chalk');
 function displayBanner() {
     const banner = `
 =======================================================================
-                   ${chalk.cyan('AUTO REFF FLOW3 - AIRDROP INSIDER')}
+                   ${chalk.cyan('AUTO REFF FLOW3 - AIRDROP SEEKER')}
 =======================================================================
 `;
     console.log(banner);
